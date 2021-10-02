@@ -1,0 +1,22 @@
+{
+  "name": "example_package",
+  "version": "0.0.1",
+  "description": "example package for learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravi-bala13/example_package.git"
+  },
+  "keywords": [
+    "example"
+  ],
+  "author": "bals161616",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravi-bala13/example_package/issues"
+  },
+  "homepage": "https://github.com/ravi-bala13/example_package#readme"
+}
