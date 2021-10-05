@@ -1,6 +1,6 @@
 {
-  "name": "example_package",
-  "version": "0.0.1",
+  "name": "@ravi_bala13/example_package",
+  "version": "0.0.2",
   "description": "example package for learning",
   "main": "index.js",
   "scripts": {
